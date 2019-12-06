@@ -1,0 +1,8 @@
+.DS_Store
+.*.swp
+node_modules/
+production/
+yarn-error.log/
+FirstApp-darwin-x64/
+dist/
+*.log
